@@ -22,7 +22,7 @@ import static org.junit.Assert.assertEquals;
         // Obtener el valor en el índice 1 (segundo número más pequeño)
         int resultado = numeros.get(1);
 
-        // Verificar que el segundo número más pequeño es 2
+        // Verificar que el segundo número más pequeño es 25
         assertEquals(25, resultado);
     }
 }
