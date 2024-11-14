@@ -1,4 +1,4 @@
-package es.ejercicios;
+package es.ejercicios.ejercicio18;
 
 import static org.junit.Assert.assertTrue;
 
