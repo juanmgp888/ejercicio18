@@ -19,7 +19,7 @@ public class Array18{
         numeros.add(8);
         numeros.add(1);
 
-        // Los ordenos de menor a mayor
+        // Los ordenamos de menor a mayor
         Collections.sort(numeros);
 
         // Busco el índice 1, que será el segundo menor número del ArrayList
